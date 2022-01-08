@@ -29,13 +29,7 @@ public class Main {
 		b.setNome("Sicredi");
 		b.setContas(contas);		
 		b.listarContas();
-		
-		
-	    /*			
-		 status = ativo e inativo
-		 lista de clientes 
-		 fazer os controles de transferencia e saque
-		*/
+			
 	}
 
 }
